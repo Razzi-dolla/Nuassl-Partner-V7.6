@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "69810907288",
+    "project_id": "nua-app-8d8f0",
+    "storage_bucket": "nua-app-8d8f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69810907288:android:903680026188e7277608ed",
+        "android_client_info": {
+          "package_name": "com.nussal.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD62E6U0T2eS_1Q6XMXDBrkEREASIx-lEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69810907288:android:6d8cba43d7f2390d7608ed",
+        "android_client_info": {
+          "package_name": "com.nussal.ordernow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD62E6U0T2eS_1Q6XMXDBrkEREASIx-lEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69810907288:android:8fe747ae883e2c797608ed",
+        "android_client_info": {
+          "package_name": "com.nussal.partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD62E6U0T2eS_1Q6XMXDBrkEREASIx-lEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
